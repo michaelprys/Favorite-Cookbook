@@ -10,7 +10,7 @@
         :to="{ name: 'byName' }"
         class="inline-flex items-center px-2 h-full transition-colors hover:bg-purple-100"
       >
-        Search Meals
+        Meals By Name
       </router-link>
       <router-link
         :to="{ name: 'byLetter' }"
